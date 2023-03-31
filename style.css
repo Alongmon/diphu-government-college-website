@@ -40,7 +40,7 @@ nav {
 nav .logo a {
     display: flex;
     flex-direction: row;
-    padding: 1vw 0vw;
+    padding: 0.5vw 0vw;
     align-items: center;
     justify-content: space-between;
     text-decoration: none;
